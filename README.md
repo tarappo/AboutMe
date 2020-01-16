@@ -6,6 +6,23 @@
 上に行くほど最近の事柄です。
 
 ## DeNA
+役割：SWET
+
+- テスト基盤
+- 事業サポート：Sakasho
+- 事業サポート：Mobage
+ - SDK担当
+   - SWET５名：チームリーダー
+   - 担当： 動作確認用アプリの実装、自動テストの実装、テスト戦略の立案など
+   - 技術：
+      - iOS / Objective-C
+      - Android / Java
+ - Developer Site
+   - SWET３名：チームリーダー
+   - 担当： 自動テストの実装、テスト戦略の立案など
+   - 技術： RSpec + Selenium
+
+### その他
 - Test Night設立
    - https://testnight.connpass.com/
    - メンバー：2152人（2019/1/13現在）
