@@ -1,8 +1,3 @@
-# AboutMe
- - id: tarappo
-   - Twitter: https://twitter.com/tarappo
-   - mail: tarappo@gmail.com
-
 # やってきたこと
 上に行くほど最近の事柄です。
 
@@ -13,25 +8,24 @@
 メンバー数は所属している間に変動しているため、最小から最大人数までを記載しています。
 
 ### 現在とりくんでいる仕事
-
-
 - 自動化領域（iOSチーム）
    - SWET 2-3名：チームリーダー
    - 担当： プロジェクトへの「テスト導入」「テスト導入支援」「フロー改善」など、全社へのナレッジ展開
       - プロジェクト名：Pococha
    - 技術：
       - 言語
-        - Swift
-        - Ruby
+         - Swift
+         - Ruby
       - テスティングフレームワーク
-        - Appium x RSpec、XCTest
-        - XCUITest
+         - Appium x RSpec、XCTest
+         - XCUITest
       - デバイスファーム
-        - HeadSpin
+         - HeadSpin
       - CI/CDサービス
-        - Bitrise、Jenkis
+         - Bitrise、Jenkis
 - CI/CDチーム
-   - SWET4名：（チームリーダーを他メンバーに委譲しました）
+   - SWET4名：
+         - チームリーダーを他メンバーに委譲しました
    - 担当： 社内のゲームのCI環境とプロセスの整備、他チームへのナレッジ展開
    - 技術：
       - CI/CDサービス
@@ -53,10 +47,10 @@
    - 担当： 横断的に利用できる基盤の開発、運用、社外サービスの導入など
    - 技術：
       - 言語
-        - Swift
-        - Ruby
+         - Swift
+         - Ruby
       - CI/CDサービス
-        - Jenkis
+         - Jenkis
 - 事業サポート：Sakasho
    - SWET4名：チームリーダー
    - 担当： 動作確認用アプリの実装、自動テストの実装、テスト戦略の立案など
@@ -86,7 +80,7 @@
   - 2020サマーインターン用コンテンツ班
   - 2019サマーインターン用iOSアプリ開発チーム リーダー
 
-## 某ベンチャー企業
+## 某ベンチャー企業 / ２社目
 - 女性向け写真加工アプリ（iOS）開発（3本リリース）
   - 担当：企画、開発、宣伝など（UIデザイン以外のすべて）
     - 開発1人、デザイン1人の体制
@@ -130,4 +124,9 @@
 - （単独）WEB+DB PRESS Vol.99（2017/6/24）
     - 特集記事：「[iOS/Android両対応!!]UIテスト自動化 ── Espresso、XCTest、Appium」
     - https://www.amazon.co.jp/dp/4774189871/
+
+# 連絡先
+ - id: tarappo
+   - Twitter: https://twitter.com/tarappo
+   - mail: tarappo@gmail.com
 
