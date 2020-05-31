@@ -20,13 +20,14 @@
          - Appium x RSpec、XCTest
          - XCUITest
       - デバイスファーム
-         - HeadSpin
+         - HeadSpin、Firebase Test Lab
       - CI/CDサービス
          - Bitrise、Jenkis
 - CI/CDチーム
    - SWET4名：
          - チームリーダーを他メンバーに委譲しました
    - 担当： 社内のゲームのCI環境とプロセスの整備、他チームへのナレッジ展開
+     - 主にアプリのビルド周りをメインに担当
    - 技術：
       - CI/CDサービス
          - Jenkins（GCP master / macOS slave）
