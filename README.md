@@ -17,15 +17,18 @@
          - Swift
          - Ruby
       - テスティングフレームワーク
-         - Appium x RSpec、XCTest
+         - Appium x RSpec
+         - XCTest
          - XCUITest
       - デバイスファーム
-         - HeadSpin、Firebase Test Lab
+         - HeadSpin
+         - Firebase Test Lab
       - CI/CDサービス
-         - Bitrise、Jenkins
+         - Bitrise
+         - Jenkins
 - CI/CDチーム
    - SWET4名：
-         - チームリーダーを他メンバーに委譲しました
+      - チームリーダーを他メンバーに委譲しました
    - 担当： 社内のゲームのCI環境とプロセスの整備、他チームへのナレッジ展開
      - 主にアプリのビルド周りをメインに担当
    - 技術：
