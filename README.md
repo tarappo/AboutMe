@@ -55,11 +55,8 @@
    - SWET4-6名：チームリーダー
    - 担当： 横断的に利用できる基盤の開発、運用、社外サービスの導入など
    - 技術：
-      - 言語
-         - Swift
-         - Ruby
-      - CI/CDサービス
-         - Jenkins
+      - Swift、Kotlin、Ruby
+      - Jenkins
 - 事業サポート：Sakasho
    - SWET4名：チームリーダー
    - 担当： 動作確認用アプリの実装、自動テストの実装、テスト戦略の立案、QAメンバーとの連携など
@@ -112,7 +109,7 @@
  - https://speakerdeck.com/tarappo/
 
 # 副業
-副業でおこなってきたことです。
+副業でおこなってきたこと/やっていることです。
 プロジェクトに応じてやることをかえています
  
  - テストコードの実装、実装サポート
@@ -122,6 +119,7 @@
     - iOS / XCTest、XCUITest
     - Android / JUnit、Espresso
 - テスト、CI/CDなどに関する相談事
+    - Bitrise / CricleCI
  - メンバー全員への勉強会
     - ソフトウェアテスト勉強会
     - ハンズオン
