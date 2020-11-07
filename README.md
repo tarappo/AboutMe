@@ -46,6 +46,11 @@
 
 - 協業案件
    - 担当： 開発生産性、品質向上にまつわるものであればなんでもおこないます
+   - 技術：
+      - Objective-C、Java
+        - XCTest、Espresso
+      - C++、Unity（C#）
+      - Jenkins
 - テスト基盤
    - SWET4-6名：チームリーダー
    - 担当： 横断的に利用できる基盤の開発、運用、社外サービスの導入など
@@ -54,7 +59,7 @@
          - Swift
          - Ruby
       - CI/CDサービス
-         - Jenkis
+         - Jenkins
 - 事業サポート：Sakasho
    - SWET4名：チームリーダー
    - 担当： 動作確認用アプリの実装、自動テストの実装、テスト戦略の立案など
@@ -88,7 +93,9 @@
 - 女性向け写真加工アプリ（iOS）開発（3本リリース）
   - 担当：企画、開発、宣伝など（UIデザイン以外のすべて）
     - 開発1人、デザイン1人の体制
-  - 技術：Objective-C
+  - 技術
+    - iOS / Objective-C
+    - 画像フィルター / C言語
   - 3本とも200万ダウンロードオーバー
     - 写真カテゴリにおいて1位の経験あり
     - 3本が写真カテゴリにおいて3位、4位、5位と並んだこともあります
@@ -100,20 +107,21 @@
     - 1番多いサービスで月間数百万PV
 
 # 体外発表
-資料一覧：https://www.slideshare.net/tarappo
-
-- DroidKaigi 2018 / DroidKaigi 2019
-- iOSDC 2017
+## 資料一覧
+ - https://www.slideshare.net/tarappo
+ - https://speakerdeck.com/tarappo/
 
 # 副業
 副業でおこなってきたことです。
 プロジェクトに応じてやることをかえています
  
  - テストコードの実装、実装サポート
-    - iOS：XCTest、Appium x RSpec
-    - Android：JUnit、Espresso
+    - iOS / XCTest、Appium x RSpec
+    - Android / JUnit、Espresso
  - 自動テストやCI環境の導入サポート
- - テスト、CI/CDなどに関する相談事
+    - iOS / XCTest、XCUITest
+    - Android / JUnit、Espresso
+- テスト、CI/CDなどに関する相談事
  - メンバー全員への勉強会
     - ソフトウェアテスト勉強会
     - ハンズオン
