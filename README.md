@@ -138,11 +138,11 @@
 # 体外発表
 ## 資料一覧
  - https://www.slideshare.net/tarappo
- - https://speakerdeck.com/tarappo/
+ - https://speakerdeck.com/tarappo
 
 # 副業
 副業でおこなってきたこと/やっていることです。
-主に技術顧問的なことをおこなっていますが、プロジェクトに応じてやることをかえています。
+主に技術顧問的（品質顧問）なことをおこなっていますが、プロジェクトに応じてやることをかえています。
  
  - 自動テスト（ユニットテスト、スナップショットテスト、UIテストなど）やCI環境の導入サポート
     - iOS： XCTest、XCUITest、Appium x RSpec
@@ -150,6 +150,7 @@
     - CI/CD：Bitrise、CricleCI
  - ソフトウェアテスト、CI/CDなどに関する相談事
     - エンジニア以外との相談にものります（QAメンバーなど） 
+ - QA全般の相談事
  - メンバー全員への勉強会
     - ソフトウェアテスト勉強会
     - ハンズオン
@@ -169,6 +170,7 @@
 
 # 連絡先
  - id: tarappo
-   - Twitter: https://twitter.com/tarappo
+   - X: https://twitter.com/tarappo
+   - YOUTRUST： https://youtrust.jp/users/tarappo
    - mail: tarappo@gmail.com
 
