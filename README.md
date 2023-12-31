@@ -135,7 +135,7 @@
    - 担当：開発
 
 
-# 体外発表
+# 対外発表
 ## 資料一覧
  - https://www.slideshare.net/tarappo
  - https://speakerdeck.com/tarappo
