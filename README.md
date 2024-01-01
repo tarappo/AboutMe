@@ -171,6 +171,7 @@
 # 連絡先
  - id: tarappo
    - X: https://twitter.com/tarappo
+   - Bluesky: https://bsky.app/profile/tarappo.bsky.social
    - YOUTRUST： https://youtrust.jp/users/tarappo
    - mail: tarappo@gmail.com
 
