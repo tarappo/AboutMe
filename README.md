@@ -151,7 +151,7 @@
 
 # アウトプット周り
 ## 発表資料
- - https://www.slideshare.net/tarappo
+ - [deprecated] https://www.slideshare.net/tarappo
  - https://speakerdeck.com/tarappo
 
 ## ブログ
@@ -175,7 +175,7 @@
  - 自動テスト（ユニットテスト、スナップショットテスト、UIテストなど）やCI環境の導入サポート
     - iOS： XCTest、XCUITest、Appium x RSpec
     - Android： JUnit、Espresso
-    - CI/CD：Bitrise、CricleCI
+    - CI/CD：Bitrise、CricleCI、GitHub Actions
  - ソフトウェアテスト、CI/CDなどに関する相談事
     - エンジニア以外との相談にものります（QAメンバーなど） 
  - QA全般の相談事
