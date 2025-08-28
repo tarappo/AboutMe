@@ -26,6 +26,13 @@
  - プロジェクト推進
     - 不具合分析
     - 自動テスト周りの最適化
+ - 技術
+   - 言語、Framework
+     - Ruby / Ruby on Rails、RSpec
+     - TypeScript
+   - CI/CDサービス
+     - CircleCI
+     - GitHub Actions
 
 ## 10X
  - 品質管理部 部長
